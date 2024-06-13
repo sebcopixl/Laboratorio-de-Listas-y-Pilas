@@ -21,7 +21,7 @@ package Ejercicios_LISTAS;
  * CI: 3.527.545
  **/
 
-public class PruebaLista {
+public class _12_FusionarDosListasOrdenadas {
 
     public static void main(String[] args) {
 
